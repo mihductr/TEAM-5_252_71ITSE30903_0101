@@ -7,7 +7,7 @@
 | STT | Họ và Tên | Vai trò | Phân công công việc |
 | :---: | :--- | :--- | :--- |
 | 1 | **Trịnh Minh Đức** | Nhóm trưởng | Setup Git, Figma, Code danh mục sản phẩm (Sofa, Giường, Bàn...), CSS , Images |
-| 2 | **Cao Kha Lâm** | Thành viên | Code trang chủ, trang Shop, Chi tiết sản phẩm, About, Cart, Checkout |
+| 2 | **Mai Kha Lâm** | Thành viên | Code trang chủ, trang Shop, Chi tiết sản phẩm, About, Cart, Checkout |
 
 ##  Giới thiệu dự án
 Soudemy là một trang web thương mại điện tử chuyên cung cấp các sản phẩm nội thất cao cấp, hiện đại (Sofa, đèn, bàn ghế, tủ sách...). Dự án tập trung vào việc xây dựng giao diện người dùng trực quan và trải nghiệm người dùng mượt mà.
